@@ -1,6 +1,12 @@
 
 /*Make a sudoku solver.*/
 // Solved by ShouryaBrahmastra
+
+// You are given a suduko your task is to fill the empty boxes with correct number 
+// rules of suduko :
+// 1 each of the digits from  1-9 should appear only once in a row 
+// 2 each of the digits from  1-9 should appear only once in a column
+// 3 each of the digits from 1-9 should appear in the 3X3 subgrid 
 #include <iostream>
 #include <vector>
 
