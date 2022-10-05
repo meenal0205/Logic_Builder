@@ -1,5 +1,19 @@
 //  Flatten binary tree to linked list
 
+// Flatten a binary tree to linked list in place without using any extra space 
+//               1
+//              / \
+//             2   3
+//            / \   \
+//           4   5   6
+
+// output 1->2->4->5->3->6
+
+
+
+
+
+
 /*  Solved by sumitsaurabh3  */
 
 #include <bits/stdc++.h>
