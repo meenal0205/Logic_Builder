@@ -2,6 +2,10 @@
 Connect N ropes with minimum cost using Priority Queue
 */
 
+// given n ropes of diffrent lengths connect these ropes in a single rope  such that the cost is minimum , the cost to connect two ropes is equal to the sum of their lengths 
+// eg [4,3,2,6]
+// output 20
+
 // Solved by anmolali5811
 
 #include <iostream>
